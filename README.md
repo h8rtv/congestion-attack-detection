@@ -28,7 +28,7 @@ From the dataset, the idea of this APS arises primarily from the VeReMi dataset,
 
 ## Dataset
 
-VeReMi is a dataset simulated with VEINS that contains failures and attacks in VANETs. It is presented in the form of "log" messages between vehicles, and contains two types of messages, GPS (receiving the vehicle's own position, speed, acceleration and current direction) and BSM (messages from other vehicles receiving the position, speed, acceleration and steering of nearby vehicles). Only a part of the dataset containing genuine behavior and congestion attack behavior is used.
+VeReMi [5] is a dataset simulated with VEINS that contains failures and attacks in VANETs. It is presented in the form of "log" messages between vehicles, and contains two types of messages, GPS (receiving the vehicle's own position, speed, acceleration and current direction) and BSM (messages from other vehicles receiving the position, speed, acceleration and steering of nearby vehicles). Only a part of the dataset containing genuine behavior and congestion attack behavior is used.
 
 ## Dynamic graphs
 
