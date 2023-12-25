@@ -80,3 +80,4 @@ Finally, it is concluded that the TGN technique is very interesting and can be a
 
 [4] Torch Geometric Team. Question about LastNeighborLoader. GitHub Issues. Available at: https://github.com/pyg-team/pytorch_geometric/discussions/2153
 
+[5] J. Kamel and M. Wolf and R. W. van Der Heijden and A. Kaiser and P. Urien and F. Kargl. VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. Available at: https://github.com/josephkamel/VeReMi-Dataset.
